@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "my_lib.h": "c",
+        "my_helper_args.h": "c"
+    }
+}

@@ -1,2 +1,4 @@
-# CS162
-My Personal solutions to the CS162 Operating Systems Course of UC Berkeley.
+CS 162 Student Repository
+=========================
+
+This repository contains code for CS 162 individual assignments.
